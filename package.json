@@ -1,8 +1,0 @@
-{
-  "name": "agentflow",
-  "version": "1.0.0",
-  "description": "AgentFlow - Plataforma de agentes de voz con IA",
-  "engines": {
-    "node": "18.x"
-  }
-}
